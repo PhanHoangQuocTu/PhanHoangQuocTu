@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced Frontend Architecture, Backend & System Design**
 
-- 👯 I’m looking to collaborate on [Open-source JavaScript / TypeScript projects](https://www.npmjs.com/package/@fatdevcon/utilities)
+- 👯 I’m looking to collaborate on [Open-source JavaScript / TypeScript projects](https://www.npmjs.com/package/@fatdevcon/precisekit)
 
 - 🤝 I’m looking for help with **Scaling products, system design & open-source development**
 
